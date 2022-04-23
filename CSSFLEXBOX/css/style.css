@@ -8,12 +8,12 @@
 
 .prof-img{
     border-radius:50% ;
-    width:150px ;
-    height:150px;
+    width:100px ;
+    height:100px;
  
 }
 .container{
-    margin-top: 0px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
  
